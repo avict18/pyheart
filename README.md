@@ -40,7 +40,7 @@
 <pre><code>$ python3 heart.py</code></pre>
 
 
-!
+
 <!-- CREDITS -->
 <h2 id="credits">Credits</h2>
 
